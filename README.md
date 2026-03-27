@@ -1,6 +1,6 @@
 # finish-task-skill
 
-A Claude Code skill to finish a development cycle — open PRs, add reviewers, stop the timer, and clean up.
+An AI agent skill to finish a development cycle — open PRs, add reviewers, stop the timer, and clean up.
 
 ## What it does
 
@@ -30,9 +30,7 @@ Also triggers on natural language: "terminei", "pronto", "acabei", "I'm done", "
 
 ## Installation
 
-```bash
-claude install tarcisiopgs/finish-task-skill
-```
+Install using any SKILL.md-compatible AI tool by pointing to this repository.
 
 ## License
 
